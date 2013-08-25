@@ -1,0 +1,43 @@
+
+#side-pain{
+  -fx-background-repeat: repeat-y;
+  -fx-background-position: left top;
+  -fx-background-image: url("/Users/momonga/Develops/asamomonga/theme/default/images/side-bg.png");
+  -fx-padding: 10;
+}
+
+.avatar{
+  -fx-background-image: url("/Users/momonga/Develops/asamomonga/theme/default/images/avatar.png");
+  -fx-background-size: 48 48;
+  -fx-background-repeat: no-repeat;
+  -fx-padding: 48 48 0 0;
+  -fx-font-size: 0;
+}
+.tweet-pane{
+  -fx-padding: 10;
+}
+.tab-pane,
+.tweets-pane{
+  -fx-background-color: #f3f3f3;
+}
+.tab-pane .tab-header-area .tab-header-background {
+  -fx-background-color: transparent;
+}
+.tweet{
+  -fx-border-color: #efefef;
+  -fx-border-width: 0 0 1 0;
+  -fx-padding: 10;
+  -fx-background-color: linear-gradient(#fcfcfc, #f8f8f8);
+}
+.tweet .meta-top .screenname{
+  -fx-padding: 0 0 5 0;
+}
+.tweet .meta-top .screenname{
+  -fx-padding: 0 10px 0 0;
+}
+.tweet .meta-top .username{
+  -fx-text-fill: #bbb;
+}
+.tweet .meta-top .at{
+  -fx-text-fill: #bbb;
+}
