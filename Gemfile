@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'jrubyfx'
+gem 'jrubyfx-fxmlloader'
+gem 'twitter'
+gem 'clockwork'
