@@ -1,3 +1,4 @@
+require 'rubygems'
 require 'bundler'
 Bundler.require
 fxml_root File.dirname(__FILE__)
