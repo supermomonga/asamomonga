@@ -1,0 +1,17 @@
+
+AsaMomonga is still in development.
+
+## AsaMomonga
+
+AsaMomonga is a twitter client based on JRuby and JavaFX.
+
+## Features
+
+* CSS based theme system
+* Plugin system
+* Multi account support
+* Sugoi benri search
+
+## License
+
+KSML ( Kanari Sugoi Momonga License )
