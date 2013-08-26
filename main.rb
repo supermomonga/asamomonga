@@ -1,5 +1,7 @@
 require 'rubygems'
 require 'bundler'
+# require 'jrubyfx'
+# require 'twitter'
 Bundler.require
 fxml_root File.dirname(__FILE__)
 
